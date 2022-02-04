@@ -8,3 +8,5 @@
 [![keeeeeey's GitHub stats](https://github-readme-stats.vercel.app/api?username=keeeeeey)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseioul)](https://solved.ac/sseioul)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseioul@naver.com)](https://github.com/sseioul@naver.com/github-readme-stats)
