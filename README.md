@@ -2,7 +2,7 @@
 
 # Backend
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=007396" style="max-width:100%"/>
-<div style="display:flex; margin:5px;">
+<div style="display:flex; margin:10px;">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFF" style="max-width:100%"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=FFF" style="max-width:100%"/>
 </div>
