@@ -10,7 +10,9 @@
 
 🇰🇷 Based on Gwanju,Korea
 
-👩‍🔧MECHANICAL ENGINEERING TO 👩‍💻 SW ENGINEER
+👩‍🔧 MECHANICAL ENGINEERING TO 👩‍💻 SW ENGINEER
+
+I'm reading 만들면서 배우는 클린 아키텍처
 
 <a href="https://github.com/keeeeeey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeeeeey&theme=dracula&layout=compact&langs_count=10" /></a> [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseioul)](https://solved.ac/sseioul)
 
