@@ -8,13 +8,9 @@
 
 💙 SSAFY **8th**
 
-🇰🇷 Based on Gwanju,Korea
+🇰🇷 Based on Seoul,Korea
 
 👩‍🔧 MECHANICAL ENGINEERING TO 👩‍💻 SW ENGINEER
-
-📖 I'm reading 도메인 주도 설계로 시작하는 마이크로서비스 개발
-
-💻 [포트폴리오](https://drive.google.com/file/d/1dCyG8zWO2cJxi-fhVW5Vo45Su3gQ5Oqy/view)
 
 <a href="https://github.com/keeeeeey"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeeeeey&theme=dracula&layout=compact&langs_count=10" /></a> [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseioul)](https://solved.ac/sseioul)
 
